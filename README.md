@@ -1,2 +1,2 @@
-# GitBeer
-Telerik beer
+# Telerik-training
+Telerik 
